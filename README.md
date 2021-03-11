@@ -1,4 +1,4 @@
-1.-) Descargar los archivos
+1.-) Descargar los archivos <a href="https://github.com/jose89fcb/Game-habbo/releases">https://github.com/jose89fcb/Game-habbo/releases</a>
 <BR>
 2.-) ir a inicio de windows y escribir "%TEMP%\com.sulake.habbo\furniture\furni"
 <BR>
